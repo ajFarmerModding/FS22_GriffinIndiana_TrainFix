@@ -1,9 +1,9 @@
-Auther:ajFarmer
-Discription:FS22 Griffin Indiana 1.1.0.0 Train Files
+Auther: ajFarmer
+
 How to Use: 
 1. Navigate to your FS22 mods folder
 2. Unzip FS22_GriffinIndiana
-3. Copy all the files in GriffinIndianaTrainFix except for README.xml
+3. Copy all the files in FS22_GriffinIndiana_TrainFix except for README.xml
 4. Paste Files into FS22_GriffinIndiana/maps/placeables
 5. Overwrite when promted
 6. Due not rezip file FS22_GriffinIndiana
